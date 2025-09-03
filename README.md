@@ -1,5 +1,5 @@
 This is my First Repository. 
-i m adding my project named tictactoe which u made using html css and js 
+i m adding my project named tictactoe which i made using html css and js 
 This project demonstrates DOM manipulation, event handling, and basic game logic in front-end web development.  
 
 ✨ Features  
